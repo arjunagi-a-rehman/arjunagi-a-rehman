@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjunagi A Rehman</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunagi-a-rehman&label=Profile%20views&color=0e75b6&style=flat" alt="arunrajkt" /> </p>
 <h3 align="center">A passionate full stack| IoT developer| Backend Developer | JAVA Spring Boot | python developer from India</h3>
 
 - 🔭 I’m curSrently working on [FinishIt](https://github.com/arjunagi-a-rehman/FinishIt)
