@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on [MediConnect](https://github.com/arjunagi-a-rehman/MediConnect)
 
-- 👨‍💻 All of my projects are available at [https://arjunagi-a-rehman.github.io/Portfolio/](https://arjunagi-a-rehman.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://www.arjunagiarehman.com](https://www.arjunagiarehman.com)
 
 - 💬 Ask me about **GO, SrpingBoot, Flask, Java,Python, IoT**
 
