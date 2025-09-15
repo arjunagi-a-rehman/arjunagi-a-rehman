@@ -19,26 +19,74 @@
 
 <div align="center">
 
-| 🔭 Currently Building | 🤝 Looking to Collaborate On |
-|----------------------|------------------------------|
-| School-agents (AI Agentic System) | MediConnect (IoT Health Monitor) |
+| 🔭 Currently Working As | 🌍 Location |
+|-------------------------|-------------|
+| Backend & IoT Architect | Bangalore, KA, India |
 
-| 👨‍💻 My Portfolio | 📄 My Resume |
+| 👨‍💻 My Portfolio | 📧 Contact |
 |-------------------|--------------|
-| [arjunagiarehman.com](https://arjunagiarehman.com) | [View Resume](#) |
+| [arjunagiarehman.com](https://arjunagiarehman.com) | [contact@arjunagiarehman.com](mailto:contact@arjunagiarehman.com) |
 
 </div>
 
+**Specializing in:** Go, Java, Python, AWS, microservices, CI/CD, real-time IoT, scalable systems for safety, logistics, and auctions
+
 ## ✨ Featured Projects
 
-Here are some of the key projects I've been working on, showcasing my skills in backend, IoT, and AI.
+Here are some of the key projects I've been working on, showcasing my expertise in backend systems, IoT, and AI.
 
 | Project Name | Description | Technologies Used |
 |--------------|-------------|-------------------|
-| **School-agents** | An innovative AI-powered agentic system designed to automate and streamline school management tasks using intelligent agents. | Go, LangChain, AI, Microservices |
-| **MediConnect** | A real-time, IoT-based patient monitoring system that allows for remote tracking of vital signs to improve healthcare delivery. | Java, Spring Boot, React, IoT, WebSockets |
-| **E-commerce Platform** | A full-featured, scalable e-commerce website with a complete backend for product, user, and order management. | Java, Spring Boot, React, PostgreSQL |
-| **Smart Home Automation** | A system for controlling home appliances remotely, built on a Raspberry Pi for a hands-on IoT experience. | Python, Flask, Raspberry Pi, IoT |
+| **[School Agent - AI Study Assistant](https://arjunagiarehman.com/first-ai-agent)** | An intelligent AI agent system designed to help students with their studies, featuring tool integration, Google Search capabilities, and adaptive learning assistance. | AI Agents, Google ADK, LLMs, Tool Integration, Python |
+| **[RouteEye - Fleet Management System](https://arjunagiarehman.com/project-routeeye)** | Real-time vehicle tracking and comprehensive fleet management system for logistics optimization. | Java, Real-time Tracking, Microservices, GPS |
+| **[BidCarsIndia - Vehicle Auction Platform](https://arjunagiarehman.com/project-bidcarsindia)** | Large-scale online vehicle auction platform handling real-time bidding and transaction processing. | Java, Spring Boot, Real-time Bidding, Scalable Systems |
+| **[GormAuditLog](https://github.com/arjunagi-a-rehman/gormAuditlog)** | Go library for automatic audit logging with GORM ORM, providing comprehensive database change tracking. | Go, GORM, Database Auditing, Open Source |
+| **[Short URL Service](https://github.com/arjunagi-a-rehman/shortning_service_expree)** | High-performance URL shortening service built with Express.js for handling large-scale redirections. | Node.js, Express.js, Microservices, Performance |
+
+## 🎯 Professional Experience
+
+- **Backend & IoT** - Building real-time, cloud-native systems at scale
+- **Instructor at skillAnything** - Teaching backend development and system architecture
+
+## 🎆 Key Expertise Areas
+
+- **Real-time Systems**: Building scalable, real-time applications for safety, logistics, and auction platforms
+- **IoT**: Designing and implementing IoT solutions for fleet management and safety monitoring  
+- **Cloud-Native**: AWS-based solutions with CI/CD pipelines and containerization
+- **High-Scale Systems**: Experience with platforms handling large transaction volumes
+
+## ✍️ Technical Writing & AI Research Hub
+
+🔗 **[Visit My Complete Blog Collection](https://arjunagiarehman.com/blogs)**
+
+I maintain an active technical blog focusing on **AI, Machine Learning, Backend Architecture**, and cutting-edge development practices. My writing combines theoretical knowledge with hands-on enterprise experience.
+
+### 🌟 Featured AI Content
+
+#### 🤖 **AI Agent Development Mastery Series**
+- **[Your First AI Agent System: Your AI Study Buddy & The First Steps to Agent Creation](https://arjunagiarehman.com/first-ai-agent)**  
+  *A comprehensive guide to building your first AI agent using Google's Agent Development Kit (ADK). Learn the fundamentals of agent architecture, tool integration, and real-world implementation strategies.*
+
+- **[Advanced Tool Integration in AI Agents](https://arjunagiarehman.com/tool-call)**  
+  *Deep dive into sophisticated tool integration patterns - from Google Search APIs to complex calculation engines. Understand how modern AI agents extend their capabilities through external tools.*
+
+### 📚 Technical Blog Categories
+
+| Category | Focus Areas | Latest Posts |
+|----------|-------------|-------------|
+| **🤖 AI & Machine Learning** | Agent Systems, LLMs, Practical AI Implementation | Study Buddy Agent, Tool Integration |
+| **🏗️ Backend Architecture** | Microservices, System Design, Scalability Patterns | High-Performance APIs, Go Architecture |
+| **🌐 IoT & Real-time Systems** | Cloud-Native IoT, Real-time Data Processing | Fleet Management, Safety Systems |
+| **⚡ Go Programming** | Advanced Patterns, Performance, Ecosystem | GORM Extensions, Concurrency Patterns |
+| **☁️ Cloud & DevOps** | AWS Services, Infrastructure as Code, CI/CD | Serverless Architecture, Container Orchestration |
+
+### 🎯 Why Read My Blog?
+- **Real-World Insights**: Content based on actual enterprise implementations
+- **Practical Tutorials**: Step-by-step guides with working code examples  
+- **AI Focus**: Cutting-edge AI agent development and integration techniques
+- **Industry Experience**: Lessons learned from scaling systems in production
+
+> 💡 **Latest Focus**: Building intelligent AI systems that integrate seamlessly with existing enterprise infrastructure
 
 ## 💻 My Tech Stack
 
@@ -50,6 +98,15 @@ Here are some of the key projects I've been working on, showcasing my skills in 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   </a>&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
+  </a>&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
+  </a>&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  </a>&nbsp;
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="45" height="45"/>
   </a>&nbsp;
@@ -59,11 +116,20 @@ Here are some of the key projects I've been working on, showcasing my skills in 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
   </a>&nbsp;
+  <a href="https://docker.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
+  </a>&nbsp;
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45"/>
+  </a>&nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
   </a>&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+  </a>&nbsp;
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="45" height="45"/>
   </a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
