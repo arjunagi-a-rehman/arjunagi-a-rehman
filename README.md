@@ -75,10 +75,7 @@ I maintain an active technical blog focusing on **AI, Machine Learning, Backend 
 | Category | Focus Areas | Latest Posts |
 |----------|-------------|-------------|
 | **🤖 AI & Machine Learning** | Agent Systems, LLMs, Practical AI Implementation | Study Buddy Agent, Tool Integration |
-| **🏗️ Backend Architecture** | Microservices, System Design, Scalability Patterns | High-Performance APIs, Go Architecture |
-| **🌐 IoT & Real-time Systems** | Cloud-Native IoT, Real-time Data Processing | Fleet Management, Safety Systems |
-| **⚡ Go Programming** | Advanced Patterns, Performance, Ecosystem | GORM Extensions, Concurrency Patterns |
-| **☁️ Cloud & DevOps** | AWS Services, Infrastructure as Code, CI/CD | Serverless Architecture, Container Orchestration |
+
 
 ### 🎯 Why Read My Blog?
 - **Real-World Insights**: Content based on actual enterprise implementations
