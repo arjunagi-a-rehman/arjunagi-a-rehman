@@ -21,7 +21,7 @@
 
 | 🔭 Currently Working As | 🌍 Location |
 |-------------------------|-------------|
-| Backend & IoT Architect | Bangalore, KA, India |
+| Backend & IoT | Bangalore, KA, India |
 
 | 👨‍💻 My Portfolio | 📧 Contact |
 |-------------------|--------------|
