@@ -37,13 +37,13 @@
 
 ## ✨ Featured Projects
 
-Here are some of the flagship projects I've architected and developed, showcasing expertise across AI agents, backend systems, IoT, and open-source contributions.
+Here are some of the flagship projects I've architected and developed, or Contributed showcasing expertise across AI agents, backend systems, IoT, and open-source contributions.
 
 <table>
 <tr>
 <td colspan="2">
 
-### 🎯 [Kalrav.AI - Enterprise AI Agent Platform](https://kalrav.ai/features/)
+### 🎯 [Kalrav.AI - Enterprise AI Agent Platform](https://kalrav.ai/)
 
 **Lead/Project Engineer** | Building the next generation of intelligent customer engagement through conversational AI
 
@@ -166,7 +166,6 @@ A comprehensive **real-time fleet management platform** that transforms logistic
 - Enhanced safety compliance
 - Scalable microservices architecture
 
-**🛠️ Stack:** Java, Spring Boot, Microservices, Real-time GPS, PostgreSQL, Redis
 
 </td>
 <td width="50%" valign="top">
@@ -183,12 +182,13 @@ A **high-scale online vehicle auction platform** handling thousands of concurren
 - Multi-seller marketplace
 
 **💡 Scale Achievement:**
-- Handles 10,000+ concurrent users
+- Handles 100+ concurrent users
 - Sub-second bid processing
 - 99.9% uptime SLA
 - Fraud detection system
 
 **🛠️ Stack:** Java, Spring Boot, WebSocket, Redis, MySQL, AWS
+**Role:** Guided the Tech team and help with design and implimentation
 
 </td>
 </tr>
