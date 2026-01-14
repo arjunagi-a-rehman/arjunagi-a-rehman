@@ -93,7 +93,7 @@ A **production-grade AI agent platform** that powers intelligent conversations f
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Personal Assistant - Multi-Agent AI System](https://github.com/arjunagi-a-rehman/personal-assitance)
+### 🤖 [Personal Assistant - Multi-Agent AI System](https://www.chotuai.in/)
 
 An intelligent **multi-agent AI assistant** built with **LangGraph** that manages your entire digital life through natural language conversations.
 
