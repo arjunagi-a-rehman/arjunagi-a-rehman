@@ -72,11 +72,10 @@ A **production-grade AI agent platform** that powers intelligent conversations f
 - **Scalable Infrastructure**: Architected multi-tenant infrastructure for high-concurrency customer interactions across multiple stores
 
 **🛠️ Technical Stack:**
-- **Backend**: Node.js, TypeScript, AI/LLM Integration, API Gateway
 - **E-commerce**: WooCommerce APIs, Shopify APIs, REST/GraphQL
 - **Integrations**: Zoho CRM, Salesforce, Multi-platform connectors
 - **Deployment**: WordPress Plugin Architecture, Shopify App Framework, NPM Package Distribution
-- **AI/ML**: Natural Language Understanding, Intent Classification, Entity Recognition, Multi-lingual Models
+- **AI**: LLM, Intent Classification, Entity Recognition, Multi-lingual Models
 
 **📊 Real-world Results:**
 - Enhanced customer satisfaction through instant, intelligent responses
