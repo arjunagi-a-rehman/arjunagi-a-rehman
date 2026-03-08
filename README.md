@@ -149,7 +149,7 @@ An intelligent AI agent system designed to help students with their studies, fea
 <tr>
 <td width="50%" valign="top">
 
-### 🚛 [RouteEye - Fleet Management System](https://arjunagiarehman.com/project-routeeye)
+### 🚛 [RouteEye - Fleet Management System](https://www.arjunagiarehman.com/project-routeeye)
 
 A comprehensive **real-time fleet management platform** that transforms logistics operations through intelligent tracking and monitoring.
 
