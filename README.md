@@ -170,7 +170,7 @@ A comprehensive **real-time fleet management platform** that transforms logistic
 </td>
 <td width="50%" valign="top">
 
-### 🚗 [BidCarsIndia - Vehicle Auction Platform](https://arjunagiarehman.com/project-bidcarsindia)
+### 🚗 [BidCarsIndia - Vehicle Auction Platform](https://www.arjunagiarehman.com/project-bidcarsindia)
 
 A **high-scale online vehicle auction platform** handling thousands of concurrent auctions with real-time bidding.
 
