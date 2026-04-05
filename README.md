@@ -24,9 +24,9 @@
 </div>
 
 ```
- Backend & AI systems engineer with a strong 0→1 product mindset.
- I build reliable AI agents, real-time communication workflows,
- and distributed backends designed for production — not demos.
+Backend & AI systems engineer with a strong 0→1 product mindset.
+I build reliable AI agents, real-time communication workflows,
+and distributed backends designed for production — not demos.
 ```
 
 ---
@@ -72,116 +72,72 @@
 
 ### `> projects.list --production`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+#### [`Kalrav.AI`](https://kalrav.ai/) — No-Code AI Agent Platform
+`STATUS: live` `CUSTOMERS: 10+` `LANGUAGES: 10+`
+> AI chatbot platform serving live e-commerce stores. Multi-tenant architecture with WordPress plugin, Shopify app, and NPM package ([@irisidea/kalrav-ai](https://www.npmjs.com/package/@irisidea/kalrav-ai)). CRM integrations with Zoho & Salesforce.
 
-**[`Kalrav.AI`](https://kalrav.ai/)** — _No-Code AI Agent Platform_
-```
-STATUS   : live | 10+ customers
-STACK    : Google ADK · FastAPI · Node.js
-FEATURES : multi-tenant · 10+ languages
-DEPLOY   : WordPress · Shopify · NPM
-CRM      : Zoho · Salesforce
-```
-> AI chatbot platform serving live e-commerce stores (VarCapital, Handmade Earth). WordPress plugin + Shopify app + NPM package.
+`Google ADK` `FastAPI` `Node.js` `LLM` `Multi-tenant`
 
-</td>
-<td width="50%" valign="top">
+#### [`RouteEye`](https://routeeye.io/) — Real-time Fleet Management
+`STATUS: live @ BIAL Airport` `TELEMETRY: 5s intervals`
+> Fleet tracking platform deployed at Bangalore International Airport for staff shuttle operations. Real-time GPS via SSE, microservices architecture.
 
-**[`RouteEye`](https://routeeye.io/)** — _Fleet Management System_
-```
-STATUS   : live @ BIAL Airport
-STACK    : Go · AWS IoT · Redis · SSE
-FEATURES : real-time · 5s telemetry
-ARCH     : microservices · event-driven
-```
-> Real-time fleet tracking deployed at Bangalore International Airport for staff shuttle operations.
+`Go` `AWS IoT Core` `Lambda` `Redis Pub/Sub` `SSE` `PostgreSQL`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+#### [`Wisp`](https://www.get-wisp.com/) — Drink Safety Platform
+`STATUS: production` `HARDWARE: NIR spectroscopy`
+> Drink-spiking prevention combining portable spectroscopy hardware (WiSPer Wand & Console) with a mobile safety app. SOS alerts, live location sharing, trusted contacts.
 
-**[`Wisp`](https://www.get-wisp.com/)** — _Drink Safety Platform_
-```
-STATUS   : production
-STACK    : Go · AWS IoT · React Native
-HARDWARE : NIR spectroscopy · BLE
-FEATURES : SOS alerts · live location
-```
-> Drink-spiking prevention with WiSPer Wand (handheld) and WiSPer Console (bar-mount) hardware + mobile safety app.
+`Go` `AWS IoT Core` `Lambda` `React Native` `BLE` `GitLab CI/CD`
 
-</td>
-<td width="50%" valign="top">
+#### [`ChotU.AI`](https://www.chotuai.in/) — Multi-Agent Personal Assistant
+`STATUS: production` `AGENTS: 5 specialized`
+> Personal AI assistant with Supervisor (Gemini Flash), Task Manager, Calendar, Planner & Personal Data agents. Full Google Calendar integration with OAuth2.
 
-**[`ChotU.AI`](https://www.chotuai.in/)** — _Multi-Agent Assistant_
-```
-STATUS   : production
-STACK    : LangGraph · OpenRouter · AWS
-AGENTS   : 5 (Supervisor · Task · Cal
-           · Planner · Data)
-AUTH     : Cognito · Google OAuth2
-```
-> Personal AI assistant with 5 specialized agents. Google Calendar integration, task management, daily planning.
+`LangGraph` `OpenRouter` `AWS ECS Fargate` `DynamoDB` `CDK` `Cognito`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+#### [`ecai`](https://arjunagiarehman.com/project-ecai) — Multimodal RAG on Azure
+`STATUS: production` `VISION: GPT-5-nano`
+> Document intelligence platform — PDF upload, text + image extraction, HNSW vector index, GPT-4.1 chat. Per-user document isolation with Microsoft Entra ID.
 
-**[`ecai`](https://arjunagiarehman.com/project-ecai)** — _Multimodal RAG on Azure_
-```
-STATUS   : production
-STACK    : Azure AI · GPT-4.1 · FastAPI
-SEARCH   : HNSW vector index
-VISION   : GPT-5-nano image intelligence
-AUTH     : Microsoft Entra ID (MSAL)
-```
-> Document intelligence platform — PDF upload, text + image extraction, vector search, multimodal chat.
+`Azure AI Foundry` `GPT-4.1` `Azure AI Search` `FastAPI` `React 18`
 
-</td>
-<td width="50%" valign="top">
+#### `Open Source`
 
-**`Open Source`**
-```
-▸ gormAuditLog    Go audit logging (GORM)
-▸ school-agents   AI tutoring (Google ADK)
-▸ bedrock-runner  AWS Bedrock local exec
-▸ gemini-search   Multimodal image search
-```
-[`gormAuditLog`](https://github.com/arjunagi-a-rehman/gormAuditlog) · [`school-agents`](https://github.com/arjunagi-a-rehman/school-agents) · [`bedrock-runner`](https://github.com/arjunagi-a-rehman/BedRock-agent-runner) · [`gemini-search`](https://github.com/arjunagi-a-rehman/gemini-multimodal-image-search)
-
-</td>
-</tr>
-</table>
+| Repo | Description |
+|------|-------------|
+| [`gormAuditLog`](https://github.com/arjunagi-a-rehman/gormAuditlog) | Go library for ORM-level audit logging with GORM |
+| [`school-agents`](https://github.com/arjunagi-a-rehman/school-agents) | Multi-agent AI tutoring system (Google ADK) |
+| [`bedrock-runner`](https://github.com/arjunagi-a-rehman/BedRock-agent-runner) | Local execution framework for AWS Bedrock agents |
+| [`gemini-search`](https://github.com/arjunagi-a-rehman/gemini-multimodal-image-search) | Semantic image search with Gemini multimodal embeddings |
 
 ---
 
 ### `> career.log --reverse`
 
-```
-2022–NOW  ▸ Lead / Project Engineer    @ Irisidea TechSolutions   [Kalrav.AI · RouteEye · Wisp]
-2021–2022 ▸ Software Developer         @ Jano Health               [WhatsApp health messaging · AWS Lambda]
-2020–2021 ▸ Software Developer         @ Omara Technologies        [IoT pipelines · Go · DynamoDB · Kinesis]
-2020      ▸ Consultant                 @ CarbidIndia               [E-commerce backend · Spring Boot]
-2019–2020 ▸ Backend Engineer           @ Coppel                    [GraphQL federation · Java]
-```
+| Period | Role | Company | Focus |
+|--------|------|---------|-------|
+| 2022–NOW | Lead / Project Engineer | Irisidea TechSolutions | `Kalrav.AI` `RouteEye` `Wisp` |
+| 2021–2022 | Software Developer | Jano Health | `WhatsApp` `AWS Lambda` `EC2` |
+| 2020–2021 | Software Developer | Omara Technologies | `IoT` `Go` `DynamoDB` `Kinesis` |
+| 2020 | Consultant | CarbidIndia | `Spring Boot` `PostgreSQL` |
+| 2019–2020 | Backend Engineer | Coppel | `GraphQL` `Java` `Federation` |
 
 ---
 
 ### `> education.get`
 
-```
-B.Tech Computer Science — BMS Institute of Technology & Management, Bangalore
-CGPA: 8.43 | HackerRank SQL Gold | 700+ DSA problems solved | Best Project Award
-```
+| | |
+|---|---|
+| **B.Tech Computer Science** | BMS Institute of Technology & Management, Bangalore |
+| **CGPA** | 8.43 |
+| **Achievements** | HackerRank SQL Gold · 700+ DSA problems · Best Project Award |
 
 ---
 
 ### `> blog.recent --topic="ai-agents"`
 
-Writing about AI agent development and backend architecture at **[arjunagiarehman.com/blogs](https://arjunagiarehman.com/blogs)**
+Writing about AI agent development at **[arjunagiarehman.com/blogs](https://arjunagiarehman.com/blogs)**
 
 | # | Post | Topics |
 |---|------|--------|
@@ -233,6 +189,5 @@ Writing about AI agent development and backend architecture at **[arjunagiarehma
 <a href="https://www.buymeacoffee.com/arjunagi.a.rehman" target="_blank">
   <img src="https://img.shields.io/badge/buy_me_a_coffee-1565ff?style=for-the-badge&logo=buymeacoffee&logoColor=040912" alt="Buy Me A Coffee" />
 </a>
-
 
 </div>
