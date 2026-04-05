@@ -11,13 +11,13 @@
 ```
 
 <a href="https://arjunagiarehman.com" target="_blank">
-  <img src="https://img.shields.io/badge/portfolio-arjunagiarehman.com-00e5ff?style=flat-square&logo=googlechrome&logoColor=00e5ff&labelColor=0a1424" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/portfolio-arjunagiarehman.com-00e5ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/arjunagi-a-rehman-moulaali/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-connect-1565ff?style=flat-square&logo=linkedin&logoColor=1565ff&labelColor=0a1424" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/linkedin-connect-1565ff?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:contact@arjunagiarehman.com">
-  <img src="https://img.shields.io/badge/mail-contact%40arjunagiarehman.com-00e5ff?style=flat-square&logo=gmail&logoColor=00e5ff&labelColor=0a1424" alt="Email"/>
+  <img src="https://img.shields.io/badge/mail-contact%40arjunagiarehman.com-00e5ff?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=arjunagi-a-rehman&color=00e5ff&style=flat-square&label=views" alt="Profile views"/>
 
