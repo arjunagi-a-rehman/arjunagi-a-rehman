@@ -1,294 +1,230 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-  <h1 align="center">Hi there, I'm Arjunagi A Rehman</h1>
-  <p align="center">
-    <a href="https://github.com/arjunagi-a-rehman">
-      <img src="https://komarev.com/ghpvc/?username=arjunagi-a-rehman&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
-    </a>
-    <a href="https://www.linkedin.com/in/arjunagi-a-rehman-moulaali/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://arjunagiarehman.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-    </a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:040912,50:0a1424,100:00e5ff&height=200&section=header&text=Arjunagi%20A%20Rehman&fontSize=42&fontColor=dde5f4&fontAlignY=35&desc=%3E_%20Backend%20%26%20AI%20Systems%20Architect&descSize=16&descColor=00e5ff&descAlignY=55&animation=fadeIn"/>
 </div>
 
-<h3 align="center">Backend & AI Systems Architect | Lead Engineer @ Irisidea TechSolutions</h3>
+<div align="center">
+  <a href="https://arjunagiarehman.com" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%96%B8_portfolio-arjunagiarehman.com-00e5ff?style=flat-square&labelColor=040912" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arjunagi-a-rehman-moulaali/" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%96%B8_linkedin-connect-1565ff?style=flat-square&labelColor=040912&logo=linkedin&logoColor=1565ff" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:contact@arjunagiarehman.com">
+    <img src="https://img.shields.io/badge/%E2%96%B8_mail-contact%40arjunagiarehman.com-00e5ff?style=flat-square&labelColor=040912" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=arjunagi-a-rehman&color=00e5ff&style=flat-square&label=%E2%96%B8+views" alt="Profile views"/>
+</div>
 
-<p align="center">Backend & AI systems engineer with a strong 0-to-1 product mindset. I build reliable AI agents, real-time communication workflows, and distributed backends designed for production, not demos. I work across the full lifecycle — architecting systems, integrating with users, iterating quickly, and owning outcomes end-to-end.</p>
+<br/>
+
+```
+ ╔══════════════════════════════════════════════════════════════════════╗
+ ║  Backend & AI systems engineer with a strong 0→1 product mindset.  ║
+ ║  I build reliable AI agents, real-time communication workflows,    ║
+ ║  and distributed backends designed for production — not demos.     ║
+ ╚══════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## Quick Info
+### `> sys.stack --list`
 
 <div align="center">
 
-| Currently Working On | Location |
-|----------------------|----------|
-| **AI Agentic Systems & IoT Solutions** | Bangalore, India |
+![Go](https://img.shields.io/badge/Go-00e5ff?style=flat-square&logo=go&logoColor=040912&labelColor=0a1424)
+![Java](https://img.shields.io/badge/Java-00e5ff?style=flat-square&logo=openjdk&logoColor=040912&labelColor=0a1424)
+![Python](https://img.shields.io/badge/Python-00e5ff?style=flat-square&logo=python&logoColor=040912&labelColor=0a1424)
+![TypeScript](https://img.shields.io/badge/TypeScript-00e5ff?style=flat-square&logo=typescript&logoColor=040912&labelColor=0a1424)
+![Node.js](https://img.shields.io/badge/Node.js-00e5ff?style=flat-square&logo=nodedotjs&logoColor=040912&labelColor=0a1424)
+![SQL](https://img.shields.io/badge/SQL-00e5ff?style=flat-square&logo=postgresql&logoColor=040912&labelColor=0a1424)
+![Shell](https://img.shields.io/badge/Shell-00e5ff?style=flat-square&logo=gnubash&logoColor=040912&labelColor=0a1424)
 
-| Portfolio | Contact |
-|-----------|---------|
-| **[arjunagiarehman.com](https://arjunagiarehman.com)** | [contact@arjunagiarehman.com](mailto:contact@arjunagiarehman.com) |
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1565ff?style=flat-square&logo=springboot&logoColor=dde5f4&labelColor=0a1424)
+![FastAPI](https://img.shields.io/badge/FastAPI-1565ff?style=flat-square&logo=fastapi&logoColor=dde5f4&labelColor=0a1424)
+![Gin](https://img.shields.io/badge/Gin-1565ff?style=flat-square&logo=go&logoColor=dde5f4&labelColor=0a1424)
+![React](https://img.shields.io/badge/React-1565ff?style=flat-square&logo=react&logoColor=dde5f4&labelColor=0a1424)
+![Express](https://img.shields.io/badge/Express-1565ff?style=flat-square&logo=express&logoColor=dde5f4&labelColor=0a1424)
+![GraphQL](https://img.shields.io/badge/GraphQL-1565ff?style=flat-square&logo=graphql&logoColor=dde5f4&labelColor=0a1424)
+
+![AWS](https://img.shields.io/badge/AWS-0e1c32?style=flat-square&logo=amazonwebservices&logoColor=00e5ff&labelColor=0a1424)
+![Azure](https://img.shields.io/badge/Azure-0e1c32?style=flat-square&logo=microsoftazure&logoColor=00e5ff&labelColor=0a1424)
+![Docker](https://img.shields.io/badge/Docker-0e1c32?style=flat-square&logo=docker&logoColor=00e5ff&labelColor=0a1424)
+![Terraform](https://img.shields.io/badge/Terraform-0e1c32?style=flat-square&logo=terraform&logoColor=00e5ff&labelColor=0a1424)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0e1c32?style=flat-square&logo=postgresql&logoColor=00e5ff&labelColor=0a1424)
+![Redis](https://img.shields.io/badge/Redis-0e1c32?style=flat-square&logo=redis&logoColor=00e5ff&labelColor=0a1424)
+![MongoDB](https://img.shields.io/badge/MongoDB-0e1c32?style=flat-square&logo=mongodb&logoColor=00e5ff&labelColor=0a1424)
+![Kafka](https://img.shields.io/badge/Kafka-0e1c32?style=flat-square&logo=apachekafka&logoColor=00e5ff&labelColor=0a1424)
+
+![Google ADK](https://img.shields.io/badge/Google_ADK-0e1c32?style=flat-square&logo=google&logoColor=1565ff&labelColor=0a1424)
+![LangGraph](https://img.shields.io/badge/LangGraph-0e1c32?style=flat-square&logo=langchain&logoColor=1565ff&labelColor=0a1424)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-0e1c32?style=flat-square&logo=amazonwebservices&logoColor=1565ff&labelColor=0a1424)
+![Azure AI](https://img.shields.io/badge/Azure_AI_Foundry-0e1c32?style=flat-square&logo=microsoftazure&logoColor=1565ff&labelColor=0a1424)
+![Qdrant](https://img.shields.io/badge/Qdrant-0e1c32?style=flat-square&logo=qdrant&logoColor=1565ff&labelColor=0a1424)
+![RAG](https://img.shields.io/badge/RAG-0e1c32?style=flat-square&logo=openai&logoColor=1565ff&labelColor=0a1424)
 
 </div>
 
-**Core Expertise:** Go, Java, Python, TypeScript, AWS, Azure, LangGraph, Google ADK, AI Agents, Microservices, Real-time IoT
-
 ---
 
-## Featured Projects
+### `> projects.list --production`
 
 <table>
 <tr>
-<td colspan="2">
+<td width="50%" valign="top">
 
-### [Kalrav.AI - No-Code AI Agent Platform](https://kalrav.ai/)
+**[`Kalrav.AI`](https://kalrav.ai/)** — _No-Code AI Agent Platform_
+```
+STATUS   : live | 10+ customers
+STACK    : Google ADK · FastAPI · Node.js
+FEATURES : multi-tenant · 10+ languages
+DEPLOY   : WordPress · Shopify · NPM
+CRM      : Zoho · Salesforce
+```
+> AI chatbot platform serving live e-commerce stores (VarCapital, Handmade Earth). WordPress plugin + Shopify app + NPM package.
 
-**Lead/Project Engineer** | Production-grade AI agent platform powering intelligent conversations for e-commerce businesses
+</td>
+<td width="50%" valign="top">
 
-- Serving **10+ live e-commerce customers** (VarCapital, Handmade Earth)
-- Multi-platform: **WordPress plugin**, **Shopify app**, **NPM package** ([@irisidea/kalrav-ai](https://www.npmjs.com/package/@irisidea/kalrav-ai))
-- CRM integrations: **Zoho** and **Salesforce**
-- **10+ languages** supported (English, Hindi, French, German, Russian, Kannada, Tamil, Bengali, Telugu, Malayalam)
-- Voice command support for accessibility
-
-**Stack:** Google ADK, LLM, FastAPI, Node.js, Multi-tenant Architecture
-
----
+**[`RouteEye`](https://routeeye.io/)** — _Fleet Management System_
+```
+STATUS   : live @ BIAL Airport
+STACK    : Go · AWS IoT · Redis · SSE
+FEATURES : real-time · 5s telemetry
+ARCH     : microservices · event-driven
+```
+> Real-time fleet tracking deployed at Bangalore International Airport for staff shuttle operations.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### [RouteEye - Fleet Management](https://routeeye.io/)
-
-Real-time fleet tracking platform, **live at Bangalore International Airport (BIAL)** for staff shuttle tracking.
-
-- Vehicle telemetry processing every **5 seconds**
-- Real-time GPS tracking with SSE
-- Route optimization & geofencing alerts
-- Microservices architecture
-
-**Stack:** Go, AWS IoT Core, Lambda, Redis Pub/Sub, SSE, PostgreSQL, React
+**[`Wisp`](https://www.get-wisp.com/)** — _Drink Safety Platform_
+```
+STATUS   : production
+STACK    : Go · AWS IoT · React Native
+HARDWARE : NIR spectroscopy · BLE
+FEATURES : SOS alerts · live location
+```
+> Drink-spiking prevention with WiSPer Wand (handheld) and WiSPer Console (bar-mount) hardware + mobile safety app.
 
 </td>
 <td width="50%" valign="top">
 
-### [Wisp - Drink Safety Platform](https://www.get-wisp.com/)
-
-Drink-spiking prevention combining portable **spectroscopy hardware** with a mobile safety app.
-
-- **WiSPer Wand**: Handheld NIR spectroscopy, BLE, results in <3 seconds
-- **WiSPer Console**: Countertop/bar-mount, WiFi-connected
-- Mobile app: SOS alerts, live location sharing, scan history, trusted contacts
-
-**Stack:** Go, AWS (IoT Core, Lambda, RDS, SNS), React Native, GitLab CI/CD
+**[`ChotU.AI`](https://www.chotuai.in/)** — _Multi-Agent Assistant_
+```
+STATUS   : production
+STACK    : LangGraph · OpenRouter · AWS
+AGENTS   : 5 (Supervisor · Task · Cal
+           · Planner · Data)
+AUTH     : Cognito · Google OAuth2
+```
+> Personal AI assistant with 5 specialized agents. Google Calendar integration, task management, daily planning.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### [ChotU.AI - Multi-Agent Assistant](https://www.chotuai.in/)
-
-Intelligent **multi-agent personal assistant** with 5 specialized AI agents via LangGraph + OpenRouter.
-
-- **Supervisor** (Gemini Flash), **Task Manager**, **Calendar**, **Planner**, **Personal Data** agents
-- Full Google Calendar integration (OAuth2)
-- Session-aware context with DynamoDB state persistence
-- Cost-optimized with multiple OpenRouter models
-
-**Stack:** TypeScript, LangGraph, React, AWS (ECS Fargate, DynamoDB, API Gateway, CDK), OpenRouter
-
-</td>
-<td width="50%" valign="top">
-
-### [ecai - Multimodal RAG Platform](https://arjunagiarehman.com/project-ecai)
-
-Multimodal RAG platform on **Azure** for document intelligence.
-
-- PDF upload pipeline: text + image extraction, vector embedding, HNSW index
-- **GPT-4.1** chat with **GPT-5-nano** image intelligence
-- Per-user document isolation
-- Microsoft Entra ID (MSAL) authentication
-
-**Stack:** Azure AI Foundry, GPT-4.1, GPT-5-nano, Azure AI Search, FastAPI, React 18
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [GormAuditLog](https://github.com/arjunagi-a-rehman/gormAuditlog)
-
-**Open-source Go library** for automatic ORM-level audit logging with GORM. Tracks create/update/delete events with zero-configuration setup.
-
-**Stack:** Go, GORM
+**[`ecai`](https://arjunagiarehman.com/project-ecai)** — _Multimodal RAG on Azure_
+```
+STATUS   : production
+STACK    : Azure AI · GPT-4.1 · FastAPI
+SEARCH   : HNSW vector index
+VISION   : GPT-5-nano image intelligence
+AUTH     : Microsoft Entra ID (MSAL)
+```
+> Document intelligence platform — PDF upload, text + image extraction, vector search, multimodal chat.
 
 </td>
 <td width="50%" valign="top">
 
-### [School Agents](https://github.com/arjunagi-a-rehman/school-agents)
-
-**Multi-agent AI tutoring system** built with Google ADK. Agents for curriculum planning, Q&A, progress tracking, and adaptive learning.
-
-**Stack:** Python, Google ADK, LLMs
+**`Open Source`**
+```
+▸ gormAuditLog    Go audit logging (GORM)
+▸ school-agents   AI tutoring (Google ADK)
+▸ bedrock-runner   AWS Bedrock local exec
+▸ gemini-search   Multimodal image search
+```
+> [`gormAuditLog`](https://github.com/arjunagi-a-rehman/gormAuditlog) · [`school-agents`](https://github.com/arjunagi-a-rehman/school-agents) · [`bedrock-runner`](https://github.com/arjunagi-a-rehman/BedRock-agent-runner) · [`gemini-search`](https://github.com/arjunagi-a-rehman/gemini-multimodal-image-search)
 
 </td>
 </tr>
 </table>
 
-**More:** [BedRock Agent Runner](https://github.com/arjunagi-a-rehman/BedRock-agent-runner) | [Gemini Multimodal Search](https://github.com/arjunagi-a-rehman/gemini-multimodal-image-search)
+---
+
+### `> career.log --reverse`
+
+```
+2022–NOW  ▸ Lead / Project Engineer    @ Irisidea TechSolutions   [Kalrav.AI · RouteEye · Wisp]
+2021–2022 ▸ Software Developer         @ Jano Health               [WhatsApp health messaging · AWS Lambda]
+2020–2021 ▸ Software Developer         @ Omara Technologies        [IoT pipelines · Go · DynamoDB · Kinesis]
+2020      ▸ Consultant                 @ CarbidIndia               [E-commerce backend · Spring Boot]
+2019–2020 ▸ Backend Engineer           @ Coppel                    [GraphQL federation · Java]
+```
 
 ---
 
-## Professional Experience
+### `> education.get`
 
-| Role | Company | Period |
-|------|---------|--------|
-| Lead / Project Engineer | [Irisidea TechSolutions](https://kalrav.ai) (Kalrav.AI, RouteEye, Wisp) | 2022 - Present |
-| Software Developer | Jano Health | 2021 - 2022 |
-| Software Developer | Omara Technologies | 2020 - 2021 |
-| Consultant | CarbidIndia | 2020 |
-| Backend Engineer | Coppel | 2019 - 2020 |
+```
+B.Tech Computer Science — BMS Institute of Technology & Management, Bangalore
+CGPA: 8.43 | HackerRank SQL Gold | 700+ DSA problems solved | Best Project Award
+```
 
 ---
 
-## Education & Achievements
+### `> blog.recent --topic="ai-agents"`
 
-- **B.Tech in Computer Science** — BMS Institute of Technology & Management, Bangalore (CGPA: 8.43)
-- **HackerRank SQL Gold Badge**
-- **700+ DSA Problems Solved** (LeetCode & HackerRank)
-- **Best Project Award**
-- **Open Source Contributor** — Published `gormAuditlog` library
+Writing about AI agent development and backend architecture at **[arjunagiarehman.com/blogs](https://arjunagiarehman.com/blogs)**
 
----
-
-## Technical Writing
-
-I write about AI agent development and backend architecture on my [blog](https://arjunagiarehman.com/blogs).
-
-**AI Agent System Series:**
-1. [Your First AI Agent System: Study Buddy](https://arjunagiarehman.com/first-ai-agent) — Google ADK fundamentals
-2. [Tool Calls: Giving Your Agent Superpowers](https://arjunagiarehman.com/tool-call) — Function calling & API integration
-3. [Deploying Your Agent: Code to Production](https://arjunagiarehman.com/deploying-ai-agent) — FastAPI, Docker, session management
+| # | Post | Topics |
+|---|------|--------|
+| 01 | [Your First AI Agent System: Study Buddy](https://arjunagiarehman.com/first-ai-agent) | `Google ADK` `Python` `Architecture` |
+| 02 | [Tool Calls — Giving Your Agent Superpowers](https://arjunagiarehman.com/tool-call) | `Function Calling` `API Integration` |
+| 03 | [Deploying Your Agent: Code to Production](https://arjunagiarehman.com/deploying-ai-agent) | `FastAPI` `Docker` `Sessions` |
 
 ---
 
-## Tech Stack
+### `> stats.render`
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arjunagi-a-rehman&show_icons=true&bg_color=040912&title_color=00e5ff&text_color=96a8bf&icon_color=1565ff&border_color=0a1424&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunagi-a-rehman&layout=compact&bg_color=040912&title_color=00e5ff&text_color=96a8bf&border_color=0a1424&hide_border=false" height="170" alt="Top Languages" />
+</div>
 
-### Languages & Frameworks
-
-<p align="center">
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" alt="Go" width="50" height="50" title="Go"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" title="Java"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" title="TypeScript"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" title="Node.js"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" title="React"/>
-</p>
-
-### AI & Agent Frameworks
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangGraph" width="50" height="50" title="LangGraph"/>&nbsp;&nbsp;
-  <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg" alt="Google ADK" width="50" height="50" title="Google Agent Development Kit"/>&nbsp;&nbsp;
-  <img src="https://python.langchain.com/v0.2/assets/images/langchain-logo.svg" alt="LangChain" width="50" height="50" title="LangChain"/>&nbsp;&nbsp;
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="50" height="50" title="HuggingFace"/>
-</p>
-
-### Backend & Frameworks
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="50" height="50" title="Spring Boot"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="50" height="50" title="Flask"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50" title="Express.js"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50" title="FastAPI"/>
-</p>
-
-### Cloud & Infrastructure
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" title="AWS"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50" title="Azure"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" title="Docker"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" title="Kubernetes"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50" title="Terraform"/>
-</p>
-
-### Databases & Messaging
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" title="MongoDB"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="50" height="50" title="Redis"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" title="MySQL"/>
-</p>
-
-### Tools
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" title="Git"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" title="Linux"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" title="Nginx"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" title="Postman"/>
-</p>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunagi-a-rehman&background=040912&ring=00e5ff&fire=1565ff&currStreakLabel=00e5ff&sideLabels=96a8bf&sideNums=dde5f4&currStreakNum=dde5f4&dates=96a8bf&stroke=0a1424&border=0a1424" alt="GitHub Streak" />
 </div>
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunagi-a-rehman&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunagi-a-rehman&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunagi-a-rehman&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
----
-
-## Let's Connect!
-
 <div align="center">
 
-<p>
-  <a href="https://www.linkedin.com/in/arjunagi-a-rehman-moulaali/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://www.leetcode.com/arjunagi_a_rehman" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>&nbsp;
-  <a href="https://www.hackerearth.com/@abdul123arj" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
-  </a>&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/arjunagi" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/arjunagi-a-rehman-moulaali/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0a1424?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn" />
+</a>&nbsp;
+<a href="https://www.leetcode.com/arjunagi_a_rehman" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-0a1424?style=for-the-badge&logo=leetcode&logoColor=00e5ff" alt="LeetCode" />
+</a>&nbsp;
+<a href="https://www.hackerearth.com/@abdul123arj" target="_blank">
+  <img src="https://img.shields.io/badge/HackerEarth-0a1424?style=for-the-badge&logo=hackerearth&logoColor=00e5ff" alt="HackerEarth" />
+</a>&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/arjunagi" target="_blank">
+  <img src="https://img.shields.io/badge/GFG-0a1424?style=for-the-badge&logo=geeksforgeeks&logoColor=00e5ff" alt="GeeksForGeeks" />
+</a>
+
+<br/><br/>
 
 <a href="https://www.buymeacoffee.com/arjunagi.a.rehman" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="217" alt="Buy Me A Coffee" />
+  <img src="https://img.shields.io/badge/buy_me_a_coffee-1565ff?style=for-the-badge&logo=buymeacoffee&logoColor=040912" alt="Buy Me A Coffee" />
 </a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0a1424,100:040912&height=100&section=footer"/>
 </div>
