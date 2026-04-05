@@ -194,12 +194,21 @@ Writing about AI agent development and backend architecture at **[arjunagiarehma
 ### `> stats.render`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunagi-a-rehman&show_icons=true&bg_color=040912&title_color=00e5ff&text_color=96a8bf&icon_color=1565ff&border_color=0a1424&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunagi-a-rehman&layout=compact&bg_color=040912&title_color=00e5ff&text_color=96a8bf&border_color=0a1424&hide_border=false" height="170" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arjunagi-a-rehman&show_icons=true&bg_color=040912&title_color=00e5ff&text_color=96a8bf&icon_color=1565ff&border_color=0a1424&hide_border=false&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arjunagi-a-rehman&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=arjunagi-a-rehman&layout=compact&bg_color=040912&title_color=00e5ff&text_color=96a8bf&border_color=0a1424&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunagi-a-rehman&layout=compact&theme=dark" height="170" alt="Top Languages" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunagi-a-rehman&background=040912&ring=00e5ff&fire=1565ff&currStreakLabel=00e5ff&sideLabels=96a8bf&sideNums=dde5f4&currStreakNum=dde5f4&dates=96a8bf&stroke=0a1424&border=0a1424" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=arjunagi-a-rehman&background=040912&ring=00e5ff&fire=1565ff&currStreakLabel=00e5ff&sideLabels=96a8bf&sideNums=dde5f4&currStreakNum=dde5f4&dates=96a8bf&stroke=0a1424&border=0a1424" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunagi-a-rehman&theme=dark" alt="GitHub Streak" />
+  </picture>
 </div>
 
 ---
@@ -225,10 +234,5 @@ Writing about AI agent development and backend architecture at **[arjunagiarehma
   <img src="https://img.shields.io/badge/buy_me_a_coffee-1565ff?style=for-the-badge&logo=buymeacoffee&logoColor=040912" alt="Buy Me A Coffee" />
 </a>
 
-<br/><br/>
-
-```
->_ EOF
-```
 
 </div>
