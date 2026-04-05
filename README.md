@@ -1,28 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:040912,50:0a1424,100:00e5ff&height=200&section=header&text=Arjunagi%20A%20Rehman&fontSize=42&fontColor=dde5f4&fontAlignY=35&desc=%3E_%20Backend%20%26%20AI%20Systems%20Architect&descSize=16&descColor=00e5ff&descAlignY=55&animation=fadeIn"/>
-</div>
-
-<div align="center">
-  <a href="https://arjunagiarehman.com" target="_blank">
-    <img src="https://img.shields.io/badge/%E2%96%B8_portfolio-arjunagiarehman.com-00e5ff?style=flat-square&labelColor=040912" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/arjunagi-a-rehman-moulaali/" target="_blank">
-    <img src="https://img.shields.io/badge/%E2%96%B8_linkedin-connect-1565ff?style=flat-square&labelColor=040912&logo=linkedin&logoColor=1565ff" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:contact@arjunagiarehman.com">
-    <img src="https://img.shields.io/badge/%E2%96%B8_mail-contact%40arjunagiarehman.com-00e5ff?style=flat-square&labelColor=040912" alt="Email"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=arjunagi-a-rehman&color=00e5ff&style=flat-square&label=%E2%96%B8+views" alt="Profile views"/>
-</div>
-
-<br/>
 
 ```
- ╔══════════════════════════════════════════════════════════════════════╗
- ║  Backend & AI systems engineer with a strong 0→1 product mindset.  ║
- ║  I build reliable AI agents, real-time communication workflows,    ║
- ║  and distributed backends designed for production — not demos.     ║
- ╚══════════════════════════════════════════════════════════════════════╝
+ ┌──────────────────────────────────────────────────────────────┐
+ │                                                              │
+ │              A R J U N A G I   A   R E H M A N               │
+ │                                                              │
+ │           >_ Backend & AI Systems Architect                  │
+ │                                                              │
+ └──────────────────────────────────────────────────────────────┘
+```
+
+<a href="https://arjunagiarehman.com" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%96%B8_portfolio-arjunagiarehman.com-00e5ff?style=flat-square&labelColor=040912" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/arjunagi-a-rehman-moulaali/" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%96%B8_linkedin-connect-1565ff?style=flat-square&labelColor=040912&logo=linkedin&logoColor=1565ff" alt="LinkedIn"/>
+</a>
+<a href="mailto:contact@arjunagiarehman.com">
+  <img src="https://img.shields.io/badge/%E2%96%B8_mail-contact%40arjunagiarehman.com-00e5ff?style=flat-square&labelColor=040912" alt="Email"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=arjunagi-a-rehman&color=00e5ff&style=flat-square&label=%E2%96%B8+views" alt="Profile views"/>
+
+</div>
+
+```
+ Backend & AI systems engineer with a strong 0→1 product mindset.
+ I build reliable AI agents, real-time communication workflows,
+ and distributed backends designed for production — not demos.
 ```
 
 ---
@@ -143,10 +147,10 @@ AUTH     : Microsoft Entra ID (MSAL)
 ```
 ▸ gormAuditLog    Go audit logging (GORM)
 ▸ school-agents   AI tutoring (Google ADK)
-▸ bedrock-runner   AWS Bedrock local exec
+▸ bedrock-runner  AWS Bedrock local exec
 ▸ gemini-search   Multimodal image search
 ```
-> [`gormAuditLog`](https://github.com/arjunagi-a-rehman/gormAuditlog) · [`school-agents`](https://github.com/arjunagi-a-rehman/school-agents) · [`bedrock-runner`](https://github.com/arjunagi-a-rehman/BedRock-agent-runner) · [`gemini-search`](https://github.com/arjunagi-a-rehman/gemini-multimodal-image-search)
+[`gormAuditLog`](https://github.com/arjunagi-a-rehman/gormAuditlog) · [`school-agents`](https://github.com/arjunagi-a-rehman/school-agents) · [`bedrock-runner`](https://github.com/arjunagi-a-rehman/BedRock-agent-runner) · [`gemini-search`](https://github.com/arjunagi-a-rehman/gemini-multimodal-image-search)
 
 </td>
 </tr>
@@ -221,10 +225,10 @@ Writing about AI agent development and backend architecture at **[arjunagiarehma
   <img src="https://img.shields.io/badge/buy_me_a_coffee-1565ff?style=for-the-badge&logo=buymeacoffee&logoColor=040912" alt="Buy Me A Coffee" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+```
+>_ EOF
+```
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0a1424,100:040912&height=100&section=footer"/>
 </div>
