@@ -11,15 +11,15 @@
 ```
 
 <a href="https://arjunagiarehman.com" target="_blank">
-  <img src="https://img.shields.io/badge/%E2%96%B8_portfolio-arjunagiarehman.com-00e5ff?style=flat-square&labelColor=040912" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/portfolio-arjunagiarehman.com-00e5ff?style=flat-square&logo=googlechrome&logoColor=00e5ff&labelColor=0a1424" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/arjunagi-a-rehman-moulaali/" target="_blank">
-  <img src="https://img.shields.io/badge/%E2%96%B8_linkedin-connect-1565ff?style=flat-square&labelColor=040912&logo=linkedin&logoColor=1565ff" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/linkedin-connect-1565ff?style=flat-square&logo=linkedin&logoColor=1565ff&labelColor=0a1424" alt="LinkedIn"/>
 </a>
 <a href="mailto:contact@arjunagiarehman.com">
-  <img src="https://img.shields.io/badge/%E2%96%B8_mail-contact%40arjunagiarehman.com-00e5ff?style=flat-square&labelColor=040912" alt="Email"/>
+  <img src="https://img.shields.io/badge/mail-contact%40arjunagiarehman.com-00e5ff?style=flat-square&logo=gmail&logoColor=00e5ff&labelColor=0a1424" alt="Email"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=arjunagi-a-rehman&color=00e5ff&style=flat-square&label=%E2%96%B8+views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=arjunagi-a-rehman&color=00e5ff&style=flat-square&label=views" alt="Profile views"/>
 
 </div>
 
@@ -35,36 +35,44 @@ and distributed backends designed for production — not demos.
 
 <div align="center">
 
-![Go](https://img.shields.io/badge/Go-00e5ff?style=flat-square&logo=go&logoColor=040912&labelColor=0a1424)
-![Java](https://img.shields.io/badge/Java-00e5ff?style=flat-square&logo=openjdk&logoColor=040912&labelColor=0a1424)
-![Python](https://img.shields.io/badge/Python-00e5ff?style=flat-square&logo=python&logoColor=040912&labelColor=0a1424)
-![TypeScript](https://img.shields.io/badge/TypeScript-00e5ff?style=flat-square&logo=typescript&logoColor=040912&labelColor=0a1424)
-![Node.js](https://img.shields.io/badge/Node.js-00e5ff?style=flat-square&logo=nodedotjs&logoColor=040912&labelColor=0a1424)
-![SQL](https://img.shields.io/badge/SQL-00e5ff?style=flat-square&logo=postgresql&logoColor=040912&labelColor=0a1424)
-![Shell](https://img.shields.io/badge/Shell-00e5ff?style=flat-square&logo=gnubash&logoColor=040912&labelColor=0a1424)
+**`LANGUAGES`**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1565ff?style=flat-square&logo=springboot&logoColor=dde5f4&labelColor=0a1424)
-![FastAPI](https://img.shields.io/badge/FastAPI-1565ff?style=flat-square&logo=fastapi&logoColor=dde5f4&labelColor=0a1424)
-![Gin](https://img.shields.io/badge/Gin-1565ff?style=flat-square&logo=go&logoColor=dde5f4&labelColor=0a1424)
-![React](https://img.shields.io/badge/React-1565ff?style=flat-square&logo=react&logoColor=dde5f4&labelColor=0a1424)
-![Express](https://img.shields.io/badge/Express-1565ff?style=flat-square&logo=express&logoColor=dde5f4&labelColor=0a1424)
-![GraphQL](https://img.shields.io/badge/GraphQL-1565ff?style=flat-square&logo=graphql&logoColor=dde5f4&labelColor=0a1424)
+![Go](https://img.shields.io/badge/Go-0a1424?style=flat-square&logo=go&logoColor=00e5ff)
+![Java](https://img.shields.io/badge/Java-0a1424?style=flat-square&logo=openjdk&logoColor=00e5ff)
+![Python](https://img.shields.io/badge/Python-0a1424?style=flat-square&logo=python&logoColor=00e5ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a1424?style=flat-square&logo=typescript&logoColor=00e5ff)
+![Node.js](https://img.shields.io/badge/Node.js-0a1424?style=flat-square&logo=nodedotjs&logoColor=00e5ff)
+![SQL](https://img.shields.io/badge/SQL-0a1424?style=flat-square&logo=postgresql&logoColor=00e5ff)
+![Shell](https://img.shields.io/badge/Shell-0a1424?style=flat-square&logo=gnubash&logoColor=00e5ff)
 
-![AWS](https://img.shields.io/badge/AWS-0e1c32?style=flat-square&logo=amazonwebservices&logoColor=00e5ff&labelColor=0a1424)
-![Azure](https://img.shields.io/badge/Azure-0e1c32?style=flat-square&logo=microsoftazure&logoColor=00e5ff&labelColor=0a1424)
-![Docker](https://img.shields.io/badge/Docker-0e1c32?style=flat-square&logo=docker&logoColor=00e5ff&labelColor=0a1424)
-![Terraform](https://img.shields.io/badge/Terraform-0e1c32?style=flat-square&logo=terraform&logoColor=00e5ff&labelColor=0a1424)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0e1c32?style=flat-square&logo=postgresql&logoColor=00e5ff&labelColor=0a1424)
-![Redis](https://img.shields.io/badge/Redis-0e1c32?style=flat-square&logo=redis&logoColor=00e5ff&labelColor=0a1424)
-![MongoDB](https://img.shields.io/badge/MongoDB-0e1c32?style=flat-square&logo=mongodb&logoColor=00e5ff&labelColor=0a1424)
-![Kafka](https://img.shields.io/badge/Kafka-0e1c32?style=flat-square&logo=apachekafka&logoColor=00e5ff&labelColor=0a1424)
+**`FRAMEWORKS`**
 
-![Google ADK](https://img.shields.io/badge/Google_ADK-0e1c32?style=flat-square&logo=google&logoColor=1565ff&labelColor=0a1424)
-![LangGraph](https://img.shields.io/badge/LangGraph-0e1c32?style=flat-square&logo=langchain&logoColor=1565ff&labelColor=0a1424)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-0e1c32?style=flat-square&logo=amazonwebservices&logoColor=1565ff&labelColor=0a1424)
-![Azure AI](https://img.shields.io/badge/Azure_AI_Foundry-0e1c32?style=flat-square&logo=microsoftazure&logoColor=1565ff&labelColor=0a1424)
-![Qdrant](https://img.shields.io/badge/Qdrant-0e1c32?style=flat-square&logo=qdrant&logoColor=1565ff&labelColor=0a1424)
-![RAG](https://img.shields.io/badge/RAG-0e1c32?style=flat-square&logo=openai&logoColor=1565ff&labelColor=0a1424)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a1424?style=flat-square&logo=springboot&logoColor=1565ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a1424?style=flat-square&logo=fastapi&logoColor=1565ff)
+![Gin](https://img.shields.io/badge/Gin-0a1424?style=flat-square&logo=go&logoColor=1565ff)
+![React](https://img.shields.io/badge/React-0a1424?style=flat-square&logo=react&logoColor=1565ff)
+![Express](https://img.shields.io/badge/Express-0a1424?style=flat-square&logo=express&logoColor=1565ff)
+![GraphQL](https://img.shields.io/badge/GraphQL-0a1424?style=flat-square&logo=graphql&logoColor=1565ff)
+
+**`CLOUD & INFRA`**
+
+![AWS](https://img.shields.io/badge/AWS-0a1424?style=flat-square&logo=amazonwebservices&logoColor=00e5ff)
+![Azure](https://img.shields.io/badge/Azure-0a1424?style=flat-square&logo=microsoftazure&logoColor=00e5ff)
+![Docker](https://img.shields.io/badge/Docker-0a1424?style=flat-square&logo=docker&logoColor=00e5ff)
+![Terraform](https://img.shields.io/badge/Terraform-0a1424?style=flat-square&logo=terraform&logoColor=00e5ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1424?style=flat-square&logo=postgresql&logoColor=00e5ff)
+![Redis](https://img.shields.io/badge/Redis-0a1424?style=flat-square&logo=redis&logoColor=00e5ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a1424?style=flat-square&logo=mongodb&logoColor=00e5ff)
+![Kafka](https://img.shields.io/badge/Kafka-0a1424?style=flat-square&logo=apachekafka&logoColor=00e5ff)
+
+**`AI & AGENTS`**
+
+![Google ADK](https://img.shields.io/badge/Google_ADK-0a1424?style=flat-square&logo=google&logoColor=1565ff)
+![LangGraph](https://img.shields.io/badge/LangGraph-0a1424?style=flat-square&logo=langchain&logoColor=1565ff)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-0a1424?style=flat-square&logo=amazonwebservices&logoColor=1565ff)
+![Azure AI](https://img.shields.io/badge/Azure_AI_Foundry-0a1424?style=flat-square&logo=microsoftazure&logoColor=1565ff)
+![Qdrant](https://img.shields.io/badge/Qdrant-0a1424?style=flat-square&logo=qdrant&logoColor=1565ff)
+![RAG](https://img.shields.io/badge/RAG-0a1424?style=flat-square&logo=openai&logoColor=1565ff)
 
 </div>
 
@@ -150,21 +158,7 @@ Writing about AI agent development at **[arjunagiarehman.com/blogs](https://arju
 ### `> stats.render`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arjunagi-a-rehman&show_icons=true&bg_color=040912&title_color=00e5ff&text_color=96a8bf&icon_color=1565ff&border_color=0a1424&hide_border=false&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=arjunagi-a-rehman&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=arjunagi-a-rehman&layout=compact&bg_color=040912&title_color=00e5ff&text_color=96a8bf&border_color=0a1424&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunagi-a-rehman&layout=compact&theme=dark" height="170" alt="Top Languages" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=arjunagi-a-rehman&background=040912&ring=00e5ff&fire=1565ff&currStreakLabel=00e5ff&sideLabels=96a8bf&sideNums=dde5f4&currStreakNum=dde5f4&dates=96a8bf&stroke=0a1424&border=0a1424" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunagi-a-rehman&theme=dark" alt="GitHub Streak" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunagi-a-rehman&background=040912&ring=00e5ff&fire=1565ff&currStreakLabel=00e5ff&sideLabels=96a8bf&sideNums=dde5f4&currStreakNum=dde5f4&dates=96a8bf&stroke=0a1424&border=0a1424" alt="GitHub Streak" />
 </div>
 
 ---
