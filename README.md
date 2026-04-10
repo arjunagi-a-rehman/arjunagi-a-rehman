@@ -82,7 +82,7 @@ and distributed backends designed for production — not demos.
 
 #### [`Kalrav.AI`](https://kalrav.ai/) — No-Code AI Agent Platform
 `STATUS: live` `CUSTOMERS: 10+` `LANGUAGES: 10+`
-> AI chatbot platform serving live e-commerce stores. Multi-tenant architecture with WordPress plugin, Shopify app, and NPM package ([@irisidea/kalrav-ai](https://www.npmjs.com/package/@irisidea/kalrav-ai)). CRM integrations with Zoho & Salesforce.
+> AI chatbot platform serving live e-commerce stores. Multi-tenant architecture with WordPress plugin, Shopify app, and NPM package. CRM integrations with Zoho & Salesforce.
 
 `Google ADK` `FastAPI` `Node.js` `LLM` `Multi-tenant`
 
@@ -104,8 +104,8 @@ and distributed backends designed for production — not demos.
 
 `LangGraph` `OpenRouter` `AWS ECS Fargate` `DynamoDB` `CDK` `Cognito`
 
-#### [`ecai`](https://arjunagiarehman.com/project-ecai) — Multimodal RAG on Azure
-`STATUS: production` `VISION: GPT-5-nano`
+#### [`ecai`](https://arjunagiarehman.com/projects/ecai) — Multimodal RAG on Azure
+`STATUS: production` `VISION: GPT-4.1-nano`
 > Document intelligence platform — PDF upload, text + image extraction, HNSW vector index, GPT-4.1 chat. Per-user document isolation with Microsoft Entra ID.
 
 `Azure AI Foundry` `GPT-4.1` `Azure AI Search` `FastAPI` `React 18`
@@ -125,11 +125,11 @@ and distributed backends designed for production — not demos.
 
 | Period | Role | Company | Focus |
 |--------|------|---------|-------|
-| 2022–NOW | Lead / Project Engineer | Irisidea TechSolutions | `Kalrav.AI` `RouteEye` `Wisp` |
-| 2021–2022 | Software Developer | Jano Health | `WhatsApp` `AWS Lambda` `EC2` |
-| 2020–2021 | Software Developer | Omara Technologies | `IoT` `Go` `DynamoDB` `Kinesis` |
-| 2020 | Consultant | CarbidIndia | `Spring Boot` `PostgreSQL` |
-| 2019–2020 | Backend Engineer | Coppel | `GraphQL` `Java` `Federation` |
+| 2023–NOW | Lead / Project Engineer | Irisidea TechSolutions | `Kalrav.AI` `RouteEye` `Wisp` |
+| 2024–NOW | Software Developer | Jano Health | `WhatsApp` `AWS Lambda` `EC2` |
+| 2024–2025 | Consultant | CarbidIndia | `Spring Boot` `PostgreSQL` |
+| 2023–2024 | Software Developer | Omara Technologies | `IoT` `Go` `DynamoDB` `Kinesis` |
+| 2025 | Backend Engineer | Coppel | `GraphQL` `Java` `Federation` |
 
 ---
 
@@ -137,21 +137,22 @@ and distributed backends designed for production — not demos.
 
 | | |
 |---|---|
-| **B.Tech Computer Science** | BMS Institute of Technology & Management, Bangalore |
+| **B.Tech Electrical & Electronics Engineering** | BMS Institute of Technology & Management, Bangalore |
 | **CGPA** | 8.43 |
 | **Achievements** | HackerRank SQL Gold · 700+ DSA problems · Best Project Award |
 
 ---
 
-### `> blog.recent --topic="ai-agents"`
+### `> blog.recent`
 
-Writing about AI agent development at **[arjunagiarehman.com/blogs](https://arjunagiarehman.com/blogs)**
+Writing about AI agents and the evolution of software at **[arjunagiarehman.com/blogs](https://arjunagiarehman.com/blogs)**
 
 | # | Post | Topics |
 |---|------|--------|
-| 01 | [Your First AI Agent System: Study Buddy](https://arjunagiarehman.com/first-ai-agent) | `Google ADK` `Python` `Architecture` |
-| 02 | [Tool Calls — Giving Your Agent Superpowers](https://arjunagiarehman.com/tool-call) | `Function Calling` `API Integration` |
-| 03 | [Deploying Your Agent: Code to Production](https://arjunagiarehman.com/deploying-ai-agent) | `FastAPI` `Docker` `Sessions` |
+| 00 | [From CLI to AI: The Evolution of How Humans Talk to Software](https://arjunagiarehman.com/cli-to-ai) | `HCI` `CLI` `LLMs` `AI Agents` |
+| 01 | [Your First AI Agent System: Study Buddy & First Steps](https://arjunagiarehman.com/study-buddy) | `Google ADK` `Python` `Architecture` |
+| 02 | [Tool Calls — Giving Your Agent Superpowers](https://arjunagiarehman.com/first-ai-agent) | `Function Calling` `API Integration` |
+| 03 | [Deploying Your Agent: Code to Production](https://arjunagiarehman.com/agent-deployment-1) | `FastAPI` `Docker` `Sessions` |
 
 ---
 
