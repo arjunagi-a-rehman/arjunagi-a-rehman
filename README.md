@@ -129,7 +129,6 @@ and distributed backends designed for production — not demos.
 | 2024–NOW | Software Developer | Jano Health | `WhatsApp` `AWS Lambda` `EC2` |
 | 2024–2025 | Consultant | CarbidIndia | `Spring Boot` `PostgreSQL` |
 | 2023–2024 | Software Developer | Omara Technologies | `IoT` `Go` `DynamoDB` `Kinesis` |
-| 2025 | Backend Engineer | Coppel | `GraphQL` `Java` `Federation` |
 
 ---
 
