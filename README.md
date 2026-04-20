@@ -148,10 +148,11 @@ Writing about AI agents and the evolution of software at **[arjunagiarehman.com/
 
 | # | Post | Topics |
 |---|------|--------|
-| 00 | [From CLI to AI: The Evolution of How Humans Talk to Software](https://arjunagiarehman.com/cli-to-ai) | `HCI` `CLI` `LLMs` `AI Agents` |
-| 01 | [Your First AI Agent System: Study Buddy & First Steps](https://arjunagiarehman.com/study-buddy) | `Google ADK` `Python` `Architecture` |
-| 02 | [Tool Calls — Giving Your Agent Superpowers](https://arjunagiarehman.com/first-ai-agent) | `Function Calling` `API Integration` |
-| 03 | [Deploying Your Agent: Code to Production](https://arjunagiarehman.com/agent-deployment-1) | `FastAPI` `Docker` `Sessions` |
+| 00 | [From Coders to Owners: AI Writes Code. Engineers Own Outcomes.](https://arjunagiarehman.com/coders-to-owners) | `Engineering` `AI` `Ownership` `Career` |
+| 01 | [From CLI to AI: The Evolution of How Humans Talk to Software](https://arjunagiarehman.com/cli-to-ai) | `HCI` `CLI` `LLMs` `AI Agents` |
+| 02 | [Your First AI Agent System: Study Buddy & First Steps](https://arjunagiarehman.com/study-buddy) | `Google ADK` `Python` `Architecture` |
+| 03 | [Tool Calls — Giving Your Agent Superpowers](https://arjunagiarehman.com/first-ai-agent) | `Function Calling` `API Integration` |
+| 04 | [Deploying Your Agent: Code to Production](https://arjunagiarehman.com/agent-deployment-1) | `FastAPI` `Docker` `Sessions` |
 
 ---
 
