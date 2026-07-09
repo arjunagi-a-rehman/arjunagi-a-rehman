@@ -114,9 +114,11 @@ and distributed backends designed for production — not demos.
 
 | Repo | Description |
 |------|-------------|
+| [`agentic-dynamic-ui`](https://github.com/arjunagi-a-rehman/Agentic-Dynamic-UI-CRM-example-) | AI agent that answers with live, interactive React UI over AG-UI — CRM reference implementation |
+| [`ucp-agent`](https://github.com/arjunagi-a-rehman/ucp-agent) | AI shopping agent (Google ADK + Gemini) that buys from any UCP-enabled merchant through conversation |
+| [`ucp-merchant`](https://github.com/arjunagi-a-rehman/ucp-merchant) | Universal Commerce Protocol merchant reference implementation (FastAPI) |
+| [`portfolio`](https://github.com/arjunagi-a-rehman/Portfolio) | This site + a forkable AI persona — chat & MCP endpoint on Convex, powered by Claude |
 | [`gormAuditLog`](https://github.com/arjunagi-a-rehman/gormAuditlog) | Go library for ORM-level audit logging with GORM |
-| [`school-agents`](https://github.com/arjunagi-a-rehman/school-agents) | Multi-agent AI tutoring system (Google ADK) |
-| [`bedrock-runner`](https://github.com/arjunagi-a-rehman/BedRock-agent-runner) | Local execution framework for AWS Bedrock agents |
 | [`gemini-search`](https://github.com/arjunagi-a-rehman/gemini-multimodal-image-search) | Semantic image search with Gemini multimodal embeddings |
 
 ---
