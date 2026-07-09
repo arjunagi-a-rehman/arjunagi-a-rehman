@@ -120,6 +120,7 @@ and distributed backends designed for production — not demos.
 | [`portfolio`](https://github.com/arjunagi-a-rehman/Portfolio) | This site + a forkable AI persona — chat & MCP endpoint on Convex, powered by Claude |
 | [`gormAuditLog`](https://github.com/arjunagi-a-rehman/gormAuditlog) | Go library for ORM-level audit logging with GORM |
 | [`gemini-search`](https://github.com/arjunagi-a-rehman/gemini-multimodal-image-search) | Semantic image search with Gemini multimodal embeddings |
+| [`school-agents`](https://github.com/arjunagi-a-rehman/school-agents) | Config-driven AI tutoring agent (Google ADK + Gemini) — companion to the AI Agent System blog series |
 
 ---
 
