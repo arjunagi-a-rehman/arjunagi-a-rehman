@@ -114,6 +114,7 @@ and distributed backends designed for production — not demos.
 
 | Repo | Description |
 |------|-------------|
+| [`dum-tum`](https://github.com/arjunagi-a-rehman/dum-tum) | Shell fixer with no trigger key — local typo correction + optional AI natural-language commands for zsh/bash. `npm v0.0.5` · `330 weekly downloads` |
 | [`agentic-dynamic-ui`](https://github.com/arjunagi-a-rehman/Agentic-Dynamic-UI-CRM-example-) | AI agent that answers with live, interactive React UI over AG-UI — CRM reference implementation |
 | [`ucp-agent`](https://github.com/arjunagi-a-rehman/ucp-agent) | AI shopping agent (Google ADK + Gemini) that buys from any UCP-enabled merchant through conversation |
 | [`ucp-merchant`](https://github.com/arjunagi-a-rehman/ucp-merchant) | Universal Commerce Protocol merchant reference implementation (FastAPI) |
